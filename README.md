@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hello everybody 👋
+
+My name is Thomas Schal and I'm a student currently working on my masters degree in IT and business. 
+
+I'm trying to get into software development and am looking to collaborate in a few projects to learn a bit more about software and also to give back to the community as I'm an avid open source user myself.
+
+My main focus currently is on learning Python, but who knows what other languages may spark my interest.
+
+I'm very proficient in SQL, especially Oracle SQL and have some very basic skills in Java, JavaScript, HTML and CSS.
 
 <!--
 **thomasschal/thomasschal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
